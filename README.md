@@ -13,9 +13,9 @@ Full-stack engineer passionate about building cross-platform mobile apps, GIS-in
 const kornchanok = {
   frontend: ['Angular', 'NgRx','Ionic', 'Capacitor', 'React', 'React Native', 'Next.js',  'Flutter', 'Swift', 'Kotlin'],
   backend: ['Node.js', 'Deno', 'Nest.js'],
-  cloud: ['Firebase', 'Supabase', 'AWS', 'Alibaba Cloud'],
+  cloud: ['Supabase', 'Alibaba Cloud', 'AWS', 'Firebase'],
   database: ['PostgreSQL', 'PostGIS', 'GraphQL'],
-  specialties: ['Computer Vision', 'Machine Learning', 'GIS', 'IoT', 'System Integration'],
+  specialties: ['GIS', 'IoT', 'System Integration', 'Computer Vision'],
   languages: ['Thai', 'English'],
   currentlyLearning: ['Advanced GIS', 'AI/ML Optimization']
 }
