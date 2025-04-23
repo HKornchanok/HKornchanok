@@ -4,7 +4,7 @@ Full-stack engineer passionate about building cross-platform mobile apps, GIS-in
 
 <div align="center">
   <img src="https://github-readme-stats-chi-one-49.vercel.app/api/top-langs/?username=HKornchanok&hide=MDX,HTML,SCSS&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats-chi-one-49.vercel.app/api?username=HKornchanok" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-chi-one-49.vercel.app/api?username=HKornchanok&show_icons=true" alt="GitHub Stats" />
 </div>
 
 ## 💻 Tech Stack
