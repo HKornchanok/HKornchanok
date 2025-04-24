@@ -17,7 +17,7 @@ const kornchanok = {
   database: ['PostgreSQL', 'PostGIS', 'GraphQL'],
   specialties: ['GIS', 'IoT', 'System Integration', 'Computer Vision'],
   languages: ['Thai', 'English'],
-  currentlyLearning: ['Java, 'Springboot', '.NET', 'C#', 'Advanced GIS', 'AI/ML Optimization']
+  currentlyLearning: ['Java', 'Springboot', '.NET', 'C#', 'Advanced GIS', 'AI/ML Optimization']
 }
 ```
 
