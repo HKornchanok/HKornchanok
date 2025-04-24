@@ -1,4 +1,4 @@
-# 👋 I'm Howl,Kornchanok Iednusorn
+# 👋 I'm Howl,Kornchanok Iednusorn  ![](https://komarev.com/ghpvc/?username=HKornchanok)
 
 Full-stack engineer passionate about building cross-platform mobile apps, GIS-integrated systems, and smart infrastructure solutions.
 
@@ -47,4 +47,3 @@ const kornchanok = {
 ```
 Location: Songkhla, Thailand 🇹🇭
 ```
-![](https://komarev.com/ghpvc/?username=HKornchanok)
