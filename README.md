@@ -47,3 +47,4 @@ const kornchanok = {
 ```
 Location: Songkhla, Thailand 🇹🇭
 ```
+![](https://komarev.com/ghpvc/?username=HKornchanok)
