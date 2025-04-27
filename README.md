@@ -1,6 +1,6 @@
-# 👋 I'm Howl,Kornchanok Iednusorn  ![](https://komarev.com/ghpvc/?username=HKornchanok)
+# 👋 Hi, I'm Kornchanok Iednusorn (Howl) ![](https://komarev.com/ghpvc/?username=HKornchanok)
 
-Full-stack engineer passionate about building cross-platform mobile apps, GIS-integrated systems, and smart infrastructure solutions.
+Full-stack Engineer specializing in Angular, cross-platform mobile development, and GIS-integrated systems with a track record of delivering enterprise-grade solutions across international markets.
 
 <div align="center">
   <img src="https://github-readme-stats-chi-one-49.vercel.app/api/top-langs/?username=HKornchanok&hide=MDX,HTML,SCSS&layout=compact" alt="Top Languages" />
@@ -11,33 +11,33 @@ Full-stack engineer passionate about building cross-platform mobile apps, GIS-in
 
 ```javascript
 const kornchanok = {
-  frontend: ['Angular', 'NgRx','Ionic', 'Capacitor', 'React', 'React Native', 'Next.js',  'Flutter', 'Swift', 'Kotlin'],
-  backend: ['Node.js', 'Deno', 'Nest.js'],
-  cloud: ['Supabase', 'Alibaba Cloud', 'AWS', 'Firebase'],
+  frontend: ['Angular', 'NgRx', 'NX Monorepo', 'Ionic', 'Capacitor', 'React', 'React Native', 'Next.js', 'Flutter', 'Swift', 'Kotlin'],
+  backend: ['Node.js', 'Deno', 'Nest.js', 'Java Spring Boot'],
+  cloud: ['Supabase', 'Alibaba', 'AWS', 'Firebase'],
   database: ['PostgreSQL', 'PostGIS', 'GraphQL'],
-  specialties: ['GIS', 'IoT', 'System Integration', 'Computer Vision'],
-  languages: ['Thai', 'English'],
-  currentlyLearning: ['Java', 'Springboot', '.NET', 'C#', 'Advanced GIS', 'AI/ML Optimization']
+  specialties: ['GIS', 'IoT', 'System Integration', 'Computer Vision', 'Machine Learning'],
+  languages: ['Thai (native)', 'English (professional)'],
+  currentlyLearning: ['Advanced AI/ML', 'Cloud Architecture']
 }
 ```
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **Real Estate Platform** - GIS-powered property mobile app with AI listings 
-- **Smart Infrastructure Systems** - Streetlight control with data visualization dashboards
-- **Traffic Analytics System** - Real-time computer vision for traffic monitoring and analysis
-- **Cross-Platform Mobile Apps** - Built 6+ apps for international clients
-- **Package Tracker with GIS System** - Real-time package tracking with geospatial visualization, QR/barcode scanning and RFID
+- **[DOODIN](https://doodin.com)** - Nationally launched real estate platform in Thailand with integrated GIS and AI technologies
+- **Smart Streetlight System** - Government-grade infrastructure with real-time monitoring (100/100 ISO 29110 score)
+- **Traffic Analysis Platform** - Computer vision system processing real-time traffic data 
+- **International Mobile Apps** - Developed of 6 cross-platform apps for clients in USA, Sweden, Germany, and Europe
+- **Palm Seed Tracker** - Agricultural lifecycle monitoring with QR/barcode scanning, RFID tagging, and GPS tracking
 
-## 📊 Experience
+## 🏆 Professional Highlights
 
-- Leading distributed engineering teams
-- Deploying secure GIS servers on cloud infrastructure
-- Creating scalable cross-platform mobile solutions
-- Implementing computer vision systems for real-world applications
-- Developing ISO-compliant Thai government infrastructure
+- **Head of Engineering** Leading distributed engineering teams
+- **Led Frontend Audit Team** achieving perfect score (100/100) during ISO 29110 evaluation
+- **Deployed Secure GIS Servers** on ECS Cloud for production environments
+- **Optimized ML Detection Models** for scalability and real-time performance
+- **Implemented Government-Grade Security** for municipal infrastructure systems
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ied.kornchanok@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HKornchanok)
@@ -45,5 +45,5 @@ const kornchanok = {
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/howl.kornchanok.77/)
 
 ```
-Location: Songkhla, Thailand 🇹🇭
+📍 Songkhla, Thailand 🇹🇭
 ```
