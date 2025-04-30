@@ -23,7 +23,7 @@ const kornchanok = {
 
 ## 🚀 Featured Projects
 
-- **[DOODIN](https://doodin.com)** - Nationally launched real estate platform in Thailand with integrated GIS and AI technologies
+- **[DOODIN](https://doodin.hbolte.com)** - Nationally launched real estate platform in Thailand with integrated GIS and AI technologies
 - **Smart Streetlight System** - Government-grade infrastructure with real-time monitoring (100/100 ISO 29110 score)
 - **Traffic Analysis Platform** - Computer vision system processing real-time traffic data 
 - **International Mobile Apps** - Developed of 6 cross-platform apps for clients in USA, Sweden, Germany, and Europe
