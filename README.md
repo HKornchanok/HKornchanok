@@ -28,6 +28,7 @@ const kornchanok = {
 - **Traffic Analysis Platform** - Computer vision system processing real-time traffic data 
 - **International Mobile Apps** - Developed of 6 cross-platform apps for clients in USA, Sweden, Germany, and Europe
 - **Palm Seed Tracker** - Agricultural lifecycle monitoring with QR/barcode scanning, RFID tagging, and GPS tracking
+- **Land Parcel Scraper & GeoJSON Extractor** - Developed an automated system to scrape, extract, and store Thai land parcel boundaries and metadata (e.g., parcel numbers, estimated prices, document-based land size, and detailed descriptions) into a structured GIS database for real estate analysis and location intelligence.
 
 ## 🏆 Professional Highlights
 
