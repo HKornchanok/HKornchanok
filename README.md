@@ -67,9 +67,3 @@ const kornchanok = {
 📍 Songkhla, Thailand 🇹🇭
 ```
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HKornchanok&theme=nord&column=7" alt="trophy" />
