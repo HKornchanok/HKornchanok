@@ -3,9 +3,24 @@
 Full-stack Engineer specializing in Angular, cross-platform mobile development, and GIS-integrated systems with a track record of delivering enterprise-grade solutions across international markets.
 
 <div align="center">
-  <img src="https://github-readme-stats-chi-one-49.vercel.app/api/top-langs/?username=HKornchanok&hide=MDX,HTML,SCSS&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats-chi-one-49.vercel.app/api?username=HKornchanok&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-chi-one-49.vercel.app/api/top-langs/?username=HKornchanok&hide=MDX,HTML,SCSS&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-chi-one-49.vercel.app/api?username=HKornchanok&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/HKornchanok/angular-vertex-firebse">
+  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=angular-vertex-firebse&theme=tokyonight" />
+</a>
+
+## 💼 Professional Projects
+
+- **[DOODIN](https://doodin.hbolte.com)** - Nationally launched real estate platform in Thailand with integrated GIS and AI technologies
+- **Smart Streetlight System** - Government-grade infrastructure with real-time monitoring (100/100 ISO 29110 score)
+- **Traffic Analysis Platform** - Computer vision system processing real-time traffic data 
+- **International Mobile Apps** - Development of 6 cross-platform apps for clients in USA, Sweden, Germany, and Europe
+- **Palm Seed Tracker** - Agricultural lifecycle monitoring with QR/barcode scanning, RFID tagging, and GPS tracking
+- **Land Parcel Scraper & GeoJSON Extractor** - Developed an automated system to scrape, extract, and store Thai land parcel boundaries and metadata (e.g., parcel numbers, estimated prices, document-based land size, and detailed descriptions) into a structured GIS database for real estate analysis and location intelligence.
 
 ## 💻 Tech Stack
 
@@ -21,15 +36,6 @@ const kornchanok = {
 }
 ```
 
-## 🚀 Featured Projects
-
-- **[DOODIN](https://doodin.hbolte.com)** - Nationally launched real estate platform in Thailand with integrated GIS and AI technologies
-- **Smart Streetlight System** - Government-grade infrastructure with real-time monitoring (100/100 ISO 29110 score)
-- **Traffic Analysis Platform** - Computer vision system processing real-time traffic data 
-- **International Mobile Apps** - Developed of 6 cross-platform apps for clients in USA, Sweden, Germany, and Europe
-- **Palm Seed Tracker** - Agricultural lifecycle monitoring with QR/barcode scanning, RFID tagging, and GPS tracking
-- **Land Parcel Scraper & GeoJSON Extractor** - Developed an automated system to scrape, extract, and store Thai land parcel boundaries and metadata (e.g., parcel numbers, estimated prices, document-based land size, and detailed descriptions) into a structured GIS database for real estate analysis and location intelligence.
-
 ## 🏆 Professional Highlights
 
 - **Head of Engineering** Leading distributed engineering teams
@@ -40,11 +46,30 @@ const kornchanok = {
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ied.kornchanok@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HKornchanok)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kornchanok-iednusorn-435a8a2a0/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/howl.kornchanok.77/)
+<div align="center">
+  <a href="mailto:ied.kornchanok@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/HKornchanok">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kornchanok-iednusorn-435a8a2a0/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/howl.kornchanok.77/">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+</div>
 
+<div align="center">
+  
 ```
 📍 Songkhla, Thailand 🇹🇭
 ```
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HKornchanok&theme=nord&column=7" alt="trophy" />
