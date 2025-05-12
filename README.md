@@ -12,8 +12,8 @@ Full-stack Engineer specializing in Angular, cross-platform mobile development, 
 <a href="https://github.com/HKornchanok/angular-vertex-firebase">
   <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=angular-vertex-firebase" />
 </a>
-<a href="https://github.com/HKornchanok/ChangeSolver-DP-LCM-BFS">
-  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=ChangeSolver-DP-LCM-BFS" />
+<a href="https://github.com/HKornchanok/ChangeSolver-DP-BFS">
+  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=ChangeSolver-DP-BFS" />
 </a>
 </div>
 
