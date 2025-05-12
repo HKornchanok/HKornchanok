@@ -3,17 +3,17 @@
 Full-stack Engineer specializing in Angular, cross-platform mobile development, and GIS-integrated systems with a track record of delivering enterprise-grade solutions across international markets.
 
 <div align="center">
-  <img src="https://github-readme-stats-chi-one-49.vercel.app/api/top-langs/?username=HKornchanok&hide=MDX,HTML,SCSS&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats-chi-one-49.vercel.app/api?username=HKornchanok&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-chi-one-49.vercel.app/api/top-langs/?username=HKornchanok&hide=MDX,HTML,SCSS&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-chi-one-49.vercel.app/api?username=HKornchanok&show_icons=true" alt="GitHub Stats" />
 </div>
 
 ## 🚀 Featured Projects
 <div align="center">
-<a href="https://github.com/HKornchanok/angular-vertex-firebse">
-  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=angular-vertex-firebse&theme=tokyonight" />
+<a href="https://github.com/HKornchanok/angular-vertex-firebase">
+  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=angular-vertex-firebase" />
 </a>
 <a href="https://github.com/HKornchanok/ChangeSolver-DP-LCM-BFS">
-  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=ChangeSolver-DP-LCM-BFS&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=ChangeSolver-DP-LCM-BFS" />
 </a>
 </div>
 
