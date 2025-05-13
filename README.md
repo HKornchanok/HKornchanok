@@ -8,23 +8,24 @@ Full-stack Engineer specializing in Angular, cross-platform mobile development, 
 </div>
 
 ## 🚀 Featured Projects
-<div align="center">
-<a href="https://github.com/HKornchanok/angular-vertex-firebase">
-  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=angular-vertex-firebase" />
-</a>
-<a href="https://github.com/HKornchanok/ChangeSolver-DP-BFS">
-  <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=ChangeSolver-DP-BFS" />
-</a>
+<div align="center"> 
+  <img align="center" src="https://github.com/HKornchanok/HKornchanok/blob/6f216d0333a4d864dbfd74eb039d4637090993f2/lv_0_20250513140526.gif" /> 
+</div> 
+<div align="center"> 
+  <a href="https://github.com/HKornchanok/angular-vertex-firebase"> 
+    <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=angular-vertex-firebase" /> 
+  </a>
+  <a href="https://github.com/HKornchanok/ChangeSolver-DP-BFS"> <img align="center" src="https://github-readme-stats-chi-one-49.vercel.app/api/pin/?username=HKornchanok&repo=ChangeSolver-DP-BFS" /> </a> </div>
 </div>
 
 ## 💼 Professional Projects
 
 - **[DOODIN](https://doodin.hbolte.com)** - Nationally launched real estate platform in Thailand with integrated GIS and AI technologies
+- **Land Parcel Scraper & GeoJSON Extractor** - Developed an automated system to scrape, extract, and store Thai land parcel boundaries and metadata (e.g., parcel numbers, estimated prices, document-based land size, and detailed descriptions) into a structured GIS database for real estate analysis and location intelligence.
 - **Smart Streetlight System** - Government-grade infrastructure with real-time monitoring (100/100 ISO 29110 score)
 - **Traffic Analysis Platform** - Computer vision system processing real-time traffic data 
 - **International Mobile Apps** - Development of 6 cross-platform apps for clients in USA, Sweden, Germany, and Europe
 - **Palm Seed Tracker** - Agricultural lifecycle monitoring with QR/barcode scanning, RFID tagging, and GPS tracking
-- **Land Parcel Scraper & GeoJSON Extractor** - Developed an automated system to scrape, extract, and store Thai land parcel boundaries and metadata (e.g., parcel numbers, estimated prices, document-based land size, and detailed descriptions) into a structured GIS database for real estate analysis and location intelligence.
 
 ## 💻 Tech Stack
 
